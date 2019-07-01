@@ -11,6 +11,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="sous vi" Type="Folder" URL="../sous vi">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="1.vi" Type="VI" URL="../1.vi"/>
 		<Item Name="Dépendances" Type="Dependencies"/>
 		<Item Name="Spécifications de construction" Type="Build"/>
